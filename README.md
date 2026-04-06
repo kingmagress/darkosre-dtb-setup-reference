@@ -3,7 +3,7 @@
 ## Introduction
 These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v21 (Panel 4).
 
-## Steps and details - For BOOT-ArkS-AEUX [Recommended as it uses 60hz]
+## Steps and details - For BOOT-ArkOS-AEUX [Recommended as it uses 60hz]
 1. Copy the R36S ArkOS-AEUX files - rk3326-r35s-linux.dtb, rk3326-rg351mp-linux.dtb, rg351mp-kernel.dtb
 2. Paste it in the formatted dARKOSRE boot partition.
 3. Update boot.ini to reference rk3326-r35s-linux.dtb. Do not reference rk3326-rg351mp-linux.dtb.
@@ -23,6 +23,6 @@ These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v
 ## Boot-Factory
 ![alt text](image.png)
 
-## BOOT-ArkS-AEUX
+## BOOT-ArkOS-AEUX
 ![alt text](image-1.png)
 
