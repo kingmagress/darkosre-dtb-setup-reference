@@ -20,7 +20,7 @@ These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v
 ## Alternately
 1. Copy over the files from this repository's respective BOOT folder over to the formatted dARKOSRE boot partition.
 
-### Boot-Factory
+### BOOT-Factory
 ![alt text](image.png)
 
 ### BOOT-ArkOS-AEUX
@@ -30,7 +30,9 @@ These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v
 1. Launch a game, go into RetroArch menu and show framerates.
 
 ## 60hz vs 77hz
-https://www.reddit.com/r/R36S/comments/1dpit2l/comment/lamaa6m/
+- https://www.reddit.com/r/R36S/comments/1dpit2l/comment/lamaa6m/
+- https://www.reddit.com/r/R36S/comments/1i9oc9x/make_sure_you_do_this_if_you_have_r36s_v5_panel_4/
+- https://www.reddit.com/r/R36S/comments/1caff1w/wrong_refresh_rate_new_display/
 
 ### Sample 77hz
 ![alt text](image-2.png)
