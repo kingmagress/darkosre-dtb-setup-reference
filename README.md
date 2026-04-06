@@ -9,3 +9,5 @@
 
 ## Alternately
 1. Copy over the files from this repository's BOOT folder over to the formatted dARKOSRE boot partition.
+
+![alt text](image.png)
