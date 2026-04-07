@@ -17,7 +17,7 @@ These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v
     - Change rk3326-r36s-linux.dtb to rk3326-rg351mp-linux.dtb
 4. Rename rg351mp-kernel.dtb to rg351mp-uboot.dtb
 
-## Alternately
+## Alternatively
 1. Copy over the files from this repository's respective BOOT folder over to the formatted dARKOSRE boot partition.
 
 ### BOOT-Factory
@@ -41,4 +41,4 @@ These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v
 ![alt text](image-3.png)
 
 ## Other Notes
-[darkosre r36s-v21 2024-12-18 dtb](https://github.com/southoz/dArkOSRE-R36/tree/main/files/BOOT/dtb/r36s/R36S-V21%202024-12-18%202550) files runs in 77hz
+- 
