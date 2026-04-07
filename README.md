@@ -41,4 +41,4 @@ These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v
 ![alt text](image-3.png)
 
 ## Other Notes
-- 
+- None ATM.
