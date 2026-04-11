@@ -20,7 +20,7 @@ These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v
 ## Alternatively
 1. Copy over the files from this repository's respective BOOT folder over to the formatted dARKOSRE boot partition.
 
-### BOOT-Factory
+### BOOT-Factory/BOOT-Factory-60hz
 ![alt text](image.png)
 
 ### BOOT-ArkOS-AEUX
@@ -41,4 +41,4 @@ These are my setup steps for transitioning from ArkOS to dARKOSRE. I have R36S v
 ![alt text](image-3.png)
 
 ## Other Notes
-- None ATM.
+- Added BOOT-Factory-60hz (recompiled with 60hz)
